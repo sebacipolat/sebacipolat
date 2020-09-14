@@ -17,7 +17,7 @@ You could find here different types of projects from Android code to electronics
 
 
 <div align="center">
-  <h3 align="center">Contact with me"</h3> 
+  <h3 align="center">Contact with me</h3> 
 </div>
 <p align='center'>
 <a href="https://twitter.com/seba_cipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
