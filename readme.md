@@ -1,6 +1,6 @@
 <img align="center" src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/spaceodissey.jpg" width=800px />
 
-### Welcome to my repository!!
+### Welcome!!
 
 This is the place where I upload all my magic!
 
@@ -23,6 +23,13 @@ You could find here different types of projects from Android code to electronics
 <a href="https://twitter.com/seba_cipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sebastiancipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/linkedin.png?raw=true"></a>
 <a href="https://www.sebastiancipolat.com"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/web.png?raw=true"></a>
+
 </p>
 
+<br>
+<br>
+<br>
+<br>
+
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sebacipolat/sebacipolat)
+
