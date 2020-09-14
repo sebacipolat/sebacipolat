@@ -1,4 +1,4 @@
-<img align="center" src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/spaceodissey.jpg" width=500px />
+<img align="center" src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/spaceodissey.jpg" width=800px />
 
 ### Welcome to my repository!!
 
