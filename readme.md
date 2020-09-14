@@ -16,13 +16,13 @@ You could find here different types of projects from Android code to electronics
 <a href="https://play.google.com/store/apps/dev?id=9143791740794410976&hl=en_US"><img width="150" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/playstore.png?raw=true"></a>&nbsp;&nbsp;
 
 
-
-### Contact with me
-<p align='left'>
+<div align="center">
+  <h3 align="center">Contact with me"</h3> 
+</div>
+<p align='center'>
 <a href="https://twitter.com/seba_cipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/sebastiancipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/linkedin.png?raw=true"></a>
 <a href="https://www.sebastiancipolat.com"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/web.png?raw=true"></a>
-
 </p>
 
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sebacipolat/sebacipolat)
