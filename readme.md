@@ -1,4 +1,4 @@
-<img align="right" src="https://image.freepik.com/vector-gratis/retro-signo-metal-venga-estamos-abiertos_1020-1159.jpg" width=250px height=365px/>
+<img align="center" src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/spaceodissey.jpg" width=500px />
 
 ### Welcome to my repository!!
 
@@ -11,6 +11,10 @@ You could find here different types of projects from Android code to electronics
 ### Programming Languages
 |<img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/java.png" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/kotlin.jpg" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/c%2B%2B.png" width=60>|
 |:---:|:---:|:---:|
+
+### Found me on Playstore
+<a href="https://play.google.com/store/apps/dev?id=9143791740794410976&hl=en_US"><img width="150" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/playstore.png?raw=true"></a>&nbsp;&nbsp;
+
 
 
 ### Contact with me
