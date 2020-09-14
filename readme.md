@@ -9,7 +9,8 @@ You could find here different types of projects from Android code to electronics
 
 
 ### Programming Languages
-<img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/java.png" width=60>  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/kotlin.jpg" width=60>  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/c%2B%2B.png" width=60>
+|<img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/java.png" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/kotlin.jpg" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/c%2B%2B.png" width=60>|
+|:---:|:---:|:---:|
 
 
 ### Contact with me
