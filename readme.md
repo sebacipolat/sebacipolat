@@ -4,7 +4,7 @@
 
 Here is the place where all my projects are stored.
 </h1>
-
+<br/>
 ### Published Apps
 
 <table>
@@ -39,13 +39,9 @@ Here is the place where all my projects are stored.
     </td>
   </tr>
 </table>
-
-
 </h1>
-
-
+<br/>
 ### My latest Projects 
-
 <table>
   <tr>
     <td align="center">
@@ -90,7 +86,7 @@ Here is the place where all my projects are stored.
   <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza y Trollea tus Code Review con Danger</i></li>
 </ul>
 
-
+<br/>
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/sebacipolat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
