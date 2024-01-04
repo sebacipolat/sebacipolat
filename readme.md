@@ -55,6 +55,28 @@ Here is the place where all my projects are stored.
       <br />
       <a href="https://github.com/sebacipolat/DroidBank">DroidBank</a>
     </td>
+    <td align="center">
+      <a href="https://github.com/sebacipolat/DroidBank-modular">
+        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/DroidBank-modular">DroidBank-Modular Blue prints</a>
+    </td>
+        <td align="center">
+      <a href="https://github.com/sebacipolat/app-score-monitor">
+        <img src="https://raw.githubusercontent.com/sebacipolat/app-score-monitor/master/images/dog_inspector.jpeg" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/app-score-monitor">AppScore Monitor</a>
+    </td>
+            <td align="center">
+      <a href="https://github.com/sebacipolat/android_screen_recorder">
+        <img src="https://raw.githubusercontent.com/sebacipolat/android_screen_recorder/master/recorder_icon.png" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/android_screen_recorder">Android Screen Recorder
+</a>
+    </td>
   </tr>
 </table>
 
