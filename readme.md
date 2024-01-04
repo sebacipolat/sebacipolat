@@ -45,7 +45,7 @@ Here is the place where all my projects are stored.
 </h1>
 <br/>
 
-## My latest Projects 
+## My latest Open Source Projects 
 <table>
   <tr>
     <td align="center">
