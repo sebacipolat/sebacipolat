@@ -1,11 +1,12 @@
 
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
-<p>Welcome to my page! </br> I'm Sebastian Cipolat, Mobile Developer advocate to Android from <img src="https://cdn-icons-png.flaticon.com/512/555/555615.png" width="25"/> <b>Buenos Aires, Argentina</b>
+<p>Welcome to my page! </br> I'm Sebastian Cipolat, Mobile Developer advocate to Android <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" width="25"/> from  <b>Buenos Aires, Argentina</b><img src="https://cdn-icons-png.flaticon.com/512/555/555615.png" width="25"/>
+
 Here is the place where all my projects are stored.
+</h1>
 
 ### Published Apps
 
-<!--START_SECTION:top-followers-->
 <table>
   <tr>
     <td align="center">
@@ -38,7 +39,24 @@ Here is the place where all my projects are stored.
     </td>
   </tr>
 </table>
-<!--END_SECTION:top-followers-->
+
+
+</h1>
+
+
+### My latest Projects 
+
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/sebacipolat/DroidBank">
+        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/DroidBank">DroidBank</a>
+    </td>
+  </tr>
+</table>
 
 <h3>Where to find me</h3>
 <p>
