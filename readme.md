@@ -41,7 +41,7 @@ Here is the place where all my projects are stored.
 </table>
 </h1>
 <br/>
-### My latest Projects 
+## My latest Projects 
 <table>
   <tr>
     <td align="center">
