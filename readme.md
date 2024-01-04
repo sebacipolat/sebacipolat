@@ -1,10 +1,7 @@
-<img align="center" src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/spaceodissey.jpg" width=800px />
 
-### Welcome!!
-
-This is the place where I upload all my magic!
-
-You could find here different types of projects from Android code to electronics, until 3d print models.
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<p>Welcome to my page! </br> I'm Sebastian Cipolat, Mobile Developer advocate to Android from <img src="https://cdn-icons-png.flaticon.com/512/555/555615.png" width="25"/> <b>Buenos Aires, Argentina</b>
+Here is the place where all my projects are stored.
 
 
 
@@ -24,12 +21,10 @@ You could find here different types of projects from Android code to electronics
 <a href="https://www.linkedin.com/in/sebastiancipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/linkedin.png?raw=true"></a>
 <a href="https://www.sebastiancipolat.com"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/web.png?raw=true"></a>
 
+<h3>Where to find me</h3>
+<p>
+<a href="https://github.com/sebacipolat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+<a href="https://twitter.com/seba_cipolat" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a> 
+<a href="https://www.linkedin.com/in/sebastiancipolat/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://medium.com/@sebastiancipolat" target="_blank"><img alt="Medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" /></a>
 </p>
-
-<br>
-<br>
-<br>
-<br>
-
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=sebacipolat/sebacipolat)
 
