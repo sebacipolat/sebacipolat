@@ -80,6 +80,13 @@ Here is the place where all my projects are stored.
   </tr>
 </table>
 
+### Blog Post
+
+<ul>
+  <li><a href="https://medium.com/@sebastiancipolat/la-odisea-de-publicar-una-app-en-google-play-y-los-20-testers-8cc315f4d0f1"><b>La odisea de publicar una app en Google Play y los 20 testers.</i></li>
+
+</ul>
+
 <h3>Where to find me</h3>
 <p>
 <a href="https://github.com/sebacipolat" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
