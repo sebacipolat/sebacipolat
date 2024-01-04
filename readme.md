@@ -77,6 +77,7 @@ Here is the place where all my projects are stored.
     </td>
   </tr>
 </table>
+<br/>
 
 ### Blog Post
 
@@ -87,6 +88,7 @@ Here is the place where all my projects are stored.
   <li><a href="https://medium.com/@sebastiancipolat/guia-rapida-para-dashboard-de-versiones-en-app-modulares-51cc7c878df"><b>Guia rapida para dashboard de versiones en app modulares</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza y Trollea tus Code Review con Danger</i></li>
 </ul>
+<br/>
 
 ### Conferences
 
