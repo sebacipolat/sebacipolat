@@ -5,6 +5,7 @@
 Here is the place where all my projects are stored.
 </h1>
 <br/>
+
 ## Published Apps
 
 <table>
@@ -41,6 +42,7 @@ Here is the place where all my projects are stored.
 </table>
 </h1>
 <br/>
+
 ## My latest Projects 
 <table>
   <tr>
