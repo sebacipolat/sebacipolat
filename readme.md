@@ -3,23 +3,42 @@
 <p>Welcome to my page! </br> I'm Sebastian Cipolat, Mobile Developer advocate to Android from <img src="https://cdn-icons-png.flaticon.com/512/555/555615.png" width="25"/> <b>Buenos Aires, Argentina</b>
 Here is the place where all my projects are stored.
 
+### Published Apps
 
-
-### Programming Languages
-|<img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/java.png" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/kotlin.jpg" width=60>|  <img src="https://raw.githubusercontent.com/sebacipolat/sebacipolat/master/imgs/c%2B%2B.png" width=60>|
-|:---:|:---:|:---:|
-
-### Found me on Playstore
-<a href="https://play.google.com/store/apps/dev?id=9143791740794410976&hl=en_US"><img width="150" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/playstore.png?raw=true"></a>&nbsp;&nbsp;
-
-
-<div align="center">
-  <h3 align="center">Contact with me</h3> 
-</div>
-<p align='center'>
-<a href="https://twitter.com/seba_cipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/twitter.png?raw=true"></a>&nbsp;&nbsp;
-<a href="https://www.linkedin.com/in/sebastiancipolat"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/linkedin.png?raw=true"></a>
-<a href="https://www.sebastiancipolat.com"><img height="30" src="https://github.com/sebacipolat/sebacipolat/blob/master/imgs/web.png?raw=true"></a>
+<!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.dreamai.app">
+        <img src="https://play-lh.googleusercontent.com/A1AhW9wVRgHcYVfqW8965VK4Yp1m1Ae1C70dyqmOJ4tauT_3W3_XKhQum4ln8LD3-w=s48-rw" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://play.google.com/store/apps/details?id=com.dreamai.app">DreamAI</a>
+    </td>
+    <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.cookbuddy.app">
+        <img src="https://lh3.googleusercontent.com/D_uiMEEN9GKejPpLbua8HxEMZZqSvIV8aR3cFwzYXD18TjIA4aNaUu125CiYSnwi5X8" width="100px;" alt="CookBuddy"/>
+      </a>
+      <br />
+      <a href="https://play.google.com/store/apps/details?id=com.cookbuddy.app">CookBuddy</a>
+    </td>
+      <td align="center">
+      <a href="https://play.google.com/store/apps/details?id=com.cipolat.deliveryya">
+        <img src="https://play-lh.googleusercontent.com/8lt2hesa4HuwS9pbsg6xMOr_0Z-IIeESPtLgIrgjOtARxfS9QAoJhmkk_YhOOfWrV-4=w240-h480-rw" width="100px;" alt="DeliveryYa"/>
+      </a>
+      <br />
+      <a href="https://play.google.com/store/apps/details?id=com.cipolat.deliveryya">DeliveryYa</a>
+    </td>
+      <td align="center">
+      <a href="httpshttps://play.google.com/store/apps/details?id=cipolat.Anotadroid">
+        <img src="https://lh3.googleusercontent.com/yBSwtyn_TvLSAJlcwc6LZsMMix3Txw34EKsycCVxWfd7vRpOFczC3vLzCUc7XTx_wnsI" width="100px;" alt="Anotadroid"/>
+      </a>
+      <br />
+      <a href="https://play.google.com/store/apps/details?id=cipolat.Anotadroid">Anotadroid</a>
+    </td>
+  </tr>
+</table>
+<!--END_SECTION:top-followers-->
 
 <h3>Where to find me</h3>
 <p>
