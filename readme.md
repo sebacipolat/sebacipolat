@@ -86,6 +86,16 @@ Here is the place where all my projects are stored.
   <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza y Trollea tus Code Review con Danger</i></li>
 </ul>
 
+### Conferences
+
+<ul>
+  <li><a href="https://www.youtube.com/watch?v=RZypl0oP7fA&t=265s"><b>04/07/2018 - Introducción a Instant Apps - Android DevsBsAs
+    
+  Slides: https://speakerdeck.com/sebacipolat/android-instant-apps
+</i>
+  <li><a href="https://speakerdeck.com/sebacipolat/android-resumen-2020"><b>2020 - Android Nigth - Desafios de 2020 - Android DevsBsAs
+
+</ul>
 <br/>
 <h3>Where to find me</h3>
 <p>
