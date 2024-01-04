@@ -5,7 +5,7 @@
 Here is the place where all my projects are stored.
 </h1>
 <br/>
-### Published Apps
+## Published Apps
 
 <table>
   <tr>
