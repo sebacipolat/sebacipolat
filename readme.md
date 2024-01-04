@@ -2,6 +2,8 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 <p>Welcome to my page! </br> I'm Sebastian Cipolat, Mobile Developer advocate to Android <img src="https://raw.githubusercontent.com/rahul-jha98/github_readme_icons/main/language_and_tools/square/android/android.svg" width="25"/> from  <b>Buenos Aires, Argentina</b><img src="https://cdn-icons-png.flaticon.com/512/555/555615.png" width="25"/>
 
+Member of <img src="https://pbs.twimg.com/profile_images/1017433638726782976/sASijhQZ_400x400.jpg" width="30"/> [Android DevsBsAs](https://twitter.com/AndroidDevsBsAs)
+
 Here is the place where all my projects are stored.
 </h1>
 <br/>
