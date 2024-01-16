@@ -62,7 +62,14 @@ Here is the place where all my projects are stored.
       <br />
       <a href="https://github.com/sebacipolat/DroidBank-modular">DroidBank-Modular Blue prints</a>
     </td>
-        <td align="center">
+    <td align="center">
+      <a href="https://github.com/sebacipolat/WolfGuard">
+        <img src="https://raw.githubusercontent.com/sebacipolat/WolfGuard/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/DroidBank-modular">WolfGuard</a>
+    </td>
+    <td align="center">
       <a href="https://github.com/sebacipolat/app-score-monitor">
         <img src="https://raw.githubusercontent.com/sebacipolat/app-score-monitor/master/images/dog_inspector.jpeg" width="100px;" alt="DreamAI"/>
       </a>
