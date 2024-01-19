@@ -91,6 +91,7 @@ Here is the place where all my projects are stored.
 ### Blog Post
 
 <ul>
+  <li><a href="https://medium.com/@sebastiancipolat/como-publicar-tu-primera-libreria-android-en-mavencentral-50f0aa60fa93"><b>Como publicar tu primera libreria Android en MavenCentral!</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/la-odisea-de-publicar-una-app-en-google-play-y-los-20-testers-8cc315f4d0f1"><b>La odisea de publicar una app en Google Play y los 20 testers.</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/navegaci%C3%B3n-desacoplada-mediante-deeplinks-en-android-ecf9e28bb797"><b>Navegación desacoplada en Android mediante DeepLinks</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/monitor-de-scoring-app-en-slack-319bd5a41516"><b>Monitor de Scoring App en Slack</i></li>
