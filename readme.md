@@ -96,7 +96,7 @@ Here is the place where all my projects are stored.
   <li><a href="https://medium.com/@sebastiancipolat/navegaci%C3%B3n-desacoplada-mediante-deeplinks-en-android-ecf9e28bb797"><b>Navegación desacoplada en Android mediante DeepLinks</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/monitor-de-scoring-app-en-slack-319bd5a41516"><b>Monitor de Scoring App en Slack</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/guia-rapida-para-dashboard-de-versiones-en-app-modulares-51cc7c878df"><b>Guia rapida para dashboard de versiones en app modulares</i></li>
-  <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza y Trollea tus Code Review con Danger</i></li>
+  <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza tus Code Review</i></li>
 </ul>
 <br/>
 
