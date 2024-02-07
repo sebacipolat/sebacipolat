@@ -50,38 +50,46 @@ Here is the place where all my projects are stored.
   <tr>
     <td align="center">
       <a href="https://github.com/sebacipolat/DroidBank">
-        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DroidBank"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/DroidBank">DroidBank</a>
     </td>
     <td align="center">
       <a href="https://github.com/sebacipolat/DroidBank-modular">
-        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/DroidBank/main/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DroidBank-Modular"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/DroidBank-modular">DroidBank-Modular Blue prints</a>
     </td>
     <td align="center">
       <a href="https://github.com/sebacipolat/WolfGuard">
-        <img src="https://raw.githubusercontent.com/sebacipolat/WolfGuard/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="DreamAI"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/WolfGuard/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="WolfGuard"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/DroidBank-modular">WolfGuard</a>
     </td>
     <td align="center">
       <a href="https://github.com/sebacipolat/app-score-monitor">
-        <img src="https://raw.githubusercontent.com/sebacipolat/app-score-monitor/master/images/dog_inspector.jpeg" width="100px;" alt="DreamAI"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/app-score-monitor/master/images/dog_inspector.jpeg" width="100px;" alt="AppScore Monitor"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/app-score-monitor">AppScore Monitor</a>
     </td>
             <td align="center">
       <a href="https://github.com/sebacipolat/android_screen_recorder">
-        <img src="https://raw.githubusercontent.com/sebacipolat/android_screen_recorder/master/recorder_icon.png" width="100px;" alt="DreamAI"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/android_screen_recorder/master/recorder_icon.png" width="100px;" alt="Android Screen Recorder"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/android_screen_recorder">Android Screen Recorder
+</a>
+    </td>
+               <td align="center">
+      <a href="https://github.com/sebacipolat/FraudShield">
+        <img src="https://raw.githubusercontent.com/sebacipolat/FraudShield/main/ic_launcher.png?token=GHSAT0AAAAAACLWMVDV6OBCWAUVMFP7B2FCZOD54KQ" width="100px;" alt="FraudShield"/>
+      </a>
+      <br />
+      <a href="https://github.com/sebacipolat/android_screen_recorder">FraudShield
 </a>
     </td>
   </tr>
