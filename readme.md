@@ -86,7 +86,7 @@ Here is the place where all my projects are stored.
     </td>
                <td align="center">
       <a href="https://github.com/sebacipolat/FraudShield">
-        <img src="https://raw.githubusercontent.com/sebacipolat/FraudShield/main/ic_launcher.png?token=GHSAT0AAAAAACLWMVDV6OBCWAUVMFP7B2FCZOD54KQ" width="100px;" alt="FraudShield"/>
+        <img src="https://raw.githubusercontent.com/sebacipolat/FraudShield/main/ic_launcher.png" width="100px;" alt="FraudShield"/>
       </a>
       <br />
       <a href="https://github.com/sebacipolat/android_screen_recorder">FraudShield
