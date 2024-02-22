@@ -67,7 +67,7 @@ Here is the place where all my projects are stored.
         <img src="https://raw.githubusercontent.com/sebacipolat/WolfGuard/master/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png" width="100px;" alt="WolfGuard"/>
       </a>
       <br />
-      <a href="https://github.com/sebacipolat/DroidBank-modular">WolfGuard</a>
+      <a href="https://github.com/sebacipolat/WolfGuard">WolfGuard</a>
     </td>
     <td align="center">
       <a href="https://github.com/sebacipolat/app-score-monitor">
