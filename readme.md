@@ -84,13 +84,20 @@ Here is the place where all my projects are stored.
       <a href="https://github.com/sebacipolat/android_screen_recorder">Android Screen Recorder
 </a>
     </td>
-               <td align="center">
-      <a href="https://github.com/sebacipolat/FraudShield">
+     <td align="center">
+        <a href="https://github.com/sebacipolat/FraudShield">
         <img src="https://raw.githubusercontent.com/sebacipolat/FraudShield/main/ic_launcher.png" width="100px;" alt="FraudShield"/>
-      </a>
-      <br />
-      <a href="https://github.com/sebacipolat/FraudShield">FraudShield
-</a>
+        </a>
+        <br />
+        <a href="https://github.com/sebacipolat/FraudShield">FraudShield
+        </a>
+    </td>
+        <td align="center">
+        <a href="https://github.com/sebacipolat/DroidTemplateWizard/tree/main">
+        <img src="https://raw.githubusercontent.com/sebacipolat/DroidTemplateWizard/main/images/image.png" width="100px;" alt="FraudShield"/>
+        </a>
+        <br />
+        <a href="https://github.com/sebacipolat/DroidTemplateWizard">DroidTemplateWizard </a>
     </td>
   </tr>
 </table>
