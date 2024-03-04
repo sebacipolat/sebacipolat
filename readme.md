@@ -112,6 +112,8 @@ Here is the place where all my projects are stored.
   <li><a href="https://medium.com/@sebastiancipolat/monitor-de-scoring-app-en-slack-319bd5a41516"><b>Monitor de Scoring App en Slack</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/guia-rapida-para-dashboard-de-versiones-en-app-modulares-51cc7c878df"><b>Guia rapida para dashboard de versiones en app modulares</i></li>
   <li><a href="https://medium.com/@sebastiancipolat/automatiza-y-trollea-tus-codes-review-con-danger-ae5853cebd1a"><b>Automatiza tus Code Review</i></li>
+  <li><a href="https://medium.com/@sebastiancipolat/aumenta-tu-productividad-creando-proyectos-android-con-plop-js-a02a8613ad19"><b>Aumenta tu productividad creando proyectos Android con Plop.js</i></li>
+    
 </ul>
 <br/>
 
