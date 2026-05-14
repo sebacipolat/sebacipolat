@@ -14,7 +14,7 @@ Here is the place where all my projects are stored.
   <tr>
     <td align="center">
       <a href="https://play.google.com/store/apps/details?id=com.dreamai.app">
-        <img src="https://play-lh.googleusercontent.com/A1AhW9wVRgHcYVfqW8965VK4Yp1m1Ae1C70dyqmOJ4tauT_3W3_XKhQum4ln8LD3-w=s48-rw" width="180px;" alt="DreamAI"/>
+        <img src="https://play-lh.googleusercontent.com/A1AhW9wVRgHcYVfqW8965VK4Yp1m1Ae1C70dyqmOJ4tauT_3W3_XKhQum4ln8LD3-w=s48-rw" width="100px;" alt="DreamAI"/>
       </a>
       <br />
       <a href="https://play.google.com/store/apps/details?id=com.dreamai.app">DreamAI</a>
