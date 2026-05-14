@@ -48,8 +48,8 @@ Here is the place where all my projects are stored.
 ## My latest Open Source Projects 
 <table>
   <tr>
-      <td align="center">
-      <a href="[https://github.com/sebacipolat/design-system-IA-agent-worker](https://github.com/sebacipolat/design-system-IA-agent-worker)">
+    <td align="center">
+      <a href="https://github.com/sebacipolat/design-system-IA-agent-worker">
         <img src="https://raw.githubusercontent.com/sebacipolat/design-system-IA-agent-worker/refs/heads/main/banner.png?token=GHSAT0AAAAAADXYZ4SLRRDSP2WGOIBBNKKA2QFGBTQ" width="100px;" alt="Figma to Code - Agent AI"/>
       </a>
       <br />
